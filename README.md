@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luiz Ventura
+# 👨🏻‍💻 Luiz Ventura
 
 **`Desenvolvedor Back-End`**
 
